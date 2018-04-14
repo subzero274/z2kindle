@@ -1,0 +1,23 @@
+{
+  "name": "z2kindle",
+  "version": "0.0.1",
+  "description": "nodejs kindle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subzero274/z2kindle.git"
+  },
+  "keywords": [
+    "nodejs",
+    "kindle"
+  ],
+  "author": "subzero274",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/subzero274/z2kindle/issues"
+  },
+  "homepage": "https://github.com/subzero274/z2kindle#readme"
+}
